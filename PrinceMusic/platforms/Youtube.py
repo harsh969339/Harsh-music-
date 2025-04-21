@@ -20,7 +20,7 @@ from os import getenv
 from dotenv import load_dotenv
 
 #tessst
-API_URL = getenv("API_URL", "") #youtube song url
+API_URL = getenv("API_URL", "https://waxgen.rishuapi.workers.dev/") #youtube song url
 API_KEY = getenv("API_KEY", None) # youtube song api key, get it from https://t.me/Rishu1286
 
 
