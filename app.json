@@ -37,6 +37,11 @@
         "value": "5738579437",
         "required": true
       },
+      "API_KEY": {
+        "description": "Api dalo jis sa music play hoga buy kr ke  @Rishu1286",
+        "value": "",
+        "required": true
+      },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from  on Telegram.",
         "value": "",
